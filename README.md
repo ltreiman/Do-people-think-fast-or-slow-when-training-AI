@@ -1,4 +1,4 @@
-# Do-people-think-fast-or-slow-when-training-AI
+# Summary
 
 This repository contains resources for my paper, Do people think fast or slow when training AI, which is published in the Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025. It includes:
 
