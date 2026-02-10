@@ -1,0 +1,790 @@
+"","id","training_condition","practice_trial","trial_number","random_trial","opponent","opponent_color","slider_start","split_amount","response","rt","time_elapsed"
+"1","id0002","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,5274,29950
+"2","id0002","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,6,5782,60807
+"3","id0002","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,6,4764,70110
+"4","id0003","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,7083,227682
+"5","id0003","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,7751,276164
+"6","id0003","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,4,7549,288282
+"7","id0004","control",1,1,0,"Practice","orange",0,10,5,7006,47525
+"8","id0004","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,2023,66765
+"9","id0004","control",0,2,1,"AI","GoldenRod",0,10,6,3254,74536
+"10","id0006","control",1,1,0,"Practice","orange",0,10,5,4591,88496
+"11","id0006","control",0,1,1,"Human Participant","GoldenRod",0,10,5,2364,122355
+"12","id0006","control",0,2,0,"AI","DarkOrchid",0,10,5,2076,128966
+"13","id0007","control",1,1,0,"Practice","orange",0,10,5,5646,59006
+"14","id0007","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,3666,87363
+"15","id0007","control",0,2,1,"AI","GoldenRod",0,10,5,3360,95269
+"16","id0008","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,14212,126991
+"17","id0008","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,6,15575,322563
+"18","id0008","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,5,5143,332254
+"19","id0009","control",1,1,0,"Practice","orange",0,10,5,5589,52345
+"20","id0009","control",0,1,1,"Human Participant","GoldenRod",0,10,5,5450,110607
+"21","id0009","control",0,2,0,"AI","DarkOrchid",0,10,6,9661,124777
+"22","id0012","control",1,1,0,"Practice","orange",0,10,6,17535,70920
+"23","id0012","control",0,1,0,"Human Participant","GoldenRod",0,10,5,7137,119659
+"24","id0012","control",0,2,1,"AI","DarkOrchid",0,10,6,6737,130936
+"25","id0013","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,10209,58177
+"26","id0013","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,5,3694,131203
+"27","id0013","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,6,8223,143936
+"28","id0014","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,3961,50421
+"29","id0014","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,5,2178,101691
+"30","id0014","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,4,7027,113222
+"31","id0015","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,12729,39624
+"32","id0015","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,6,10055,103085
+"33","id0015","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,7,4024,111623
+"34","id0016","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,18337,259696
+"35","id0016","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,5,6406,406190
+"36","id0016","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,7,37697,448432
+"37","id0018","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,7460,81007
+"38","id0018","ai_training_for_others",0,1,1,"AI","DarkOrchid",0,10,5,5083,143734
+"39","id0018","ai_training_for_others",0,2,0,"Human Participant","GoldenRod",0,10,5,5541,153818
+"40","id0019","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,6590,108806
+"41","id0019","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,3401,193239
+"42","id0019","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,6,5341,203105
+"43","id0020","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,14547,163165
+"44","id0020","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,5,7742,249367
+"45","id0020","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,6,5623,259527
+"46","id0021","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,5134,67116
+"47","id0021","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,3954,139332
+"48","id0021","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,6,4405,148249
+"49","id0022","control",1,1,0,"Practice","orange",0,10,5,8255,61065
+"50","id0022","control",0,1,1,"Human Participant","DarkOrchid",0,10,5,5823,129283
+"51","id0022","control",0,2,0,"AI","GoldenRod",0,10,5,3551,137350
+"52","id0023","ai_training_for_self",1,1,0,"Practice","orange",0,10,7,11543,115224
+"53","id0023","ai_training_for_self",0,1,0,"AI","GoldenRod",0,10,7,6168,163418
+"54","id0023","ai_training_for_self",0,2,1,"Human Participant","DarkOrchid",0,10,5,5576,173557
+"55","id0025","control",1,1,0,"Practice","orange",0,10,4,8612,96282
+"56","id0025","control",0,1,1,"Human Participant","DarkOrchid",0,10,5,7953,158527
+"57","id0025","control",0,2,0,"AI","GoldenRod",0,10,6,4857,167899
+"58","id0026","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,13057,86257
+"59","id0026","ai_training_for_others",0,1,1,"AI","DarkOrchid",0,10,6,4848,147282
+"60","id0026","ai_training_for_others",0,2,0,"Human Participant","GoldenRod",0,10,6,4149,155957
+"61","id0027","control",1,1,0,"Practice","orange",0,10,10,4483,39037
+"62","id0027","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,3040,64592
+"63","id0027","control",0,2,1,"AI","GoldenRod",0,10,8,4622,73738
+"64","id0029","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,5991,67477
+"65","id0029","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,5,2930,114034
+"66","id0029","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,5,1792,120395
+"67","id0030","control",1,1,0,"Practice","orange",0,10,10,10454,98739
+"68","id0030","control",0,1,0,"AI","DarkOrchid",0,10,10,2045,135439
+"69","id0030","control",0,2,1,"Human Participant","GoldenRod",0,10,5,2787,142755
+"70","id0031","ai_training_for_others",1,1,0,"Practice","orange",0,10,7,6762,50284
+"71","id0031","ai_training_for_others",0,1,0,"Human Participant","GoldenRod",0,10,6,5915,120012
+"72","id0031","ai_training_for_others",0,2,1,"AI","DarkOrchid",0,10,9,5154,129706
+"73","id0032","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,9755,101609
+"74","id0032","ai_training_for_others",0,1,1,"AI","GoldenRod",0,10,8,5217,186793
+"75","id0032","ai_training_for_others",0,2,0,"Human Participant","DarkOrchid",0,10,5,8089,199477
+"76","id0033","control",1,1,0,"Practice","orange",0,10,6,8058,55944
+"77","id0033","control",0,1,0,"Human Participant","GoldenRod",0,10,6,3560,101616
+"78","id0033","control",0,2,1,"AI","DarkOrchid",0,10,6,3300,109424
+"79","id0034","ai_training_for_self",1,1,0,"Practice","orange",0,10,10,11331,86796
+"80","id0034","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,7,6188,117107
+"81","id0034","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,6,3475,125099
+"82","id0035","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,4945,59768
+"83","id0035","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,6,7146,124671
+"84","id0035","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,5,5033,134237
+"85","id0039","control",1,1,0,"Practice","orange",0,10,5,11577,63948
+"86","id0039","control",0,1,1,"Human Participant","DarkOrchid",0,10,5,22642,137965
+"87","id0039","control",0,2,0,"AI","GoldenRod",0,10,10,9500,152020
+"88","id0040","control",1,1,0,"Practice","orange",0,10,7,10130,74200
+"89","id0040","control",0,1,1,"AI","GoldenRod",0,10,7,3547,135152
+"90","id0040","control",0,2,0,"Human Participant","DarkOrchid",0,10,6,5104,144787
+"91","id0043","control",1,1,0,"Practice","orange",0,10,5,5773,59944
+"92","id0043","control",0,1,1,"Human Participant","GoldenRod",0,10,5,5892,118644
+"93","id0043","control",0,2,0,"AI","DarkOrchid",0,10,6,8358,131512
+"94","id0045","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,5675,41044
+"95","id0045","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,6,7997,78464
+"96","id0045","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,5,3966,86978
+"97","id0048","control",1,1,0,"Practice","orange",0,10,5,5832,93968
+"98","id0048","control",0,1,0,"Human Participant","GoldenRod",0,10,4,10232,171285
+"99","id0048","control",0,2,1,"AI","DarkOrchid",0,10,8,5862,181703
+"100","id0049","control",1,1,0,"Practice","orange",0,10,5,4777,53301
+"101","id0049","control",0,1,1,"AI","GoldenRod",0,10,5,4578,93482
+"102","id0049","control",0,2,0,"Human Participant","DarkOrchid",0,10,4,6981,105002
+"103","id0050","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8782,107778
+"104","id0050","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,5,4889,167450
+"105","id0050","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,5,6727,178707
+"106","id0051","control",1,1,0,"Practice","orange",0,10,6,6877,48310
+"107","id0051","control",0,1,1,"AI","GoldenRod",0,10,7,7549,84654
+"108","id0051","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,4683,93846
+"109","id0052","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,15468,122476
+"110","id0052","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,10,19551,229492
+"111","id0052","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,5,12799,246859
+"112","id0054","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,22585,82795
+"113","id0054","ai_training_for_self",0,1,0,"AI","GoldenRod",0,10,6,8510,136914
+"114","id0054","ai_training_for_self",0,2,1,"Human Participant","DarkOrchid",0,10,6,3424,144917
+"115","id0056","control",1,1,0,"Practice","orange",0,10,5,24300,482428
+"116","id0056","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,12643,557388
+"117","id0056","control",0,2,1,"AI","GoldenRod",0,10,6,10045,571980
+"118","id0057","ai_training_for_self",1,1,0,"Practice","orange",0,10,9,8605,55732
+"119","id0057","ai_training_for_self",0,1,0,"AI","GoldenRod",0,10,6,7222,107163
+"120","id0057","ai_training_for_self",0,2,1,"Human Participant","DarkOrchid",0,10,5,2975,114667
+"121","id0060","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,11741,58567
+"122","id0060","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,5,2313,83413
+"123","id0060","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,9,5455,93381
+"124","id0061","control",1,1,0,"Practice","orange",0,10,6,6204,59804
+"125","id0061","control",0,1,0,"AI","GoldenRod",0,10,6,9269,112116
+"126","id0061","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,4898,121560
+"127","id0062","control",1,1,0,"Practice","orange",0,10,5,7091,134640
+"128","id0062","control",0,1,0,"Human Participant","GoldenRod",0,10,5,6394,254586
+"129","id0062","control",0,2,1,"AI","DarkOrchid",0,10,5,5924,265047
+"130","id0063","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,12718,121868
+"131","id0063","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,5,7992,239606
+"132","id0063","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,9,14264,258387
+"133","id0064","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6830,388198
+"134","id0064","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,5,4756,420380
+"135","id0064","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,5,2793,427721
+"136","id0065","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,16815,98134
+"137","id0065","ai_training_for_others",0,1,1,"AI","DarkOrchid",0,10,7,12562,193912
+"138","id0065","ai_training_for_others",0,2,0,"Human Participant","GoldenRod",0,10,5,7683,206158
+"139","id0066","control",1,1,0,"Practice","orange",0,10,5,5935,112018
+"140","id0066","control",0,1,0,"Human Participant","DarkOrchid",0,10,7,9774,178993
+"141","id0066","control",0,2,1,"AI","GoldenRod",0,10,9,4336,187849
+"142","id0067","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,5731,97351
+"143","id0067","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,5,5073,178586
+"144","id0067","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,5,3954,187084
+"145","id0068","ai_training_for_others",1,1,0,"Practice","orange",0,10,7,5955,44673
+"146","id0068","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,7,4291,78208
+"147","id0068","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,8,3667,86385
+"148","id0069","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,8632,129420
+"149","id0069","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,5916,211538
+"150","id0069","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,9,9129,225180
+"151","id0070","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8730,86424
+"152","id0070","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,5,5133,169056
+"153","id0070","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,5,3893,177495
+"154","id0072","ai_training_for_self",1,1,0,"Practice","orange",0,10,7,8257,237585
+"155","id0072","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,6,7279,294652
+"156","id0072","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,6,6588,305801
+"157","id0073","ai_training_for_self",1,1,0,"Practice","orange",0,10,4,9971,100908
+"158","id0073","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,4,5936,192375
+"159","id0073","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,3,7258,204169
+"160","id0074","control",1,1,0,"Practice","orange",0,10,5,5298,57354
+"161","id0074","control",0,1,1,"Human Participant","DarkOrchid",0,10,5,2488,112195
+"162","id0074","control",0,2,0,"AI","GoldenRod",0,10,5,2510,119259
+"163","id0075","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,5179,126565
+"164","id0075","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,6,5966,188587
+"165","id0075","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,6,4861,197980
+"166","id0076","ai_training_for_self",1,1,0,"Practice","orange",0,10,9,12172,83218
+"167","id0076","ai_training_for_self",0,1,0,"AI","DarkOrchid",0,10,9,2226,153774
+"168","id0076","ai_training_for_self",0,2,1,"Human Participant","GoldenRod",0,10,5,2192,160521
+"169","id0077","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,7439,27772
+"170","id0077","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,5,4216,51411
+"171","id0077","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,5,2442,58370
+"172","id0078","control",1,1,0,"Practice","orange",0,10,7,8792,81428
+"173","id0078","control",0,1,1,"Human Participant","DarkOrchid",0,10,6,6795,150548
+"174","id0078","control",0,2,0,"AI","GoldenRod",0,10,6,9967,165072
+"175","id0082","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,11702,97310
+"176","id0082","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,6,10078,167037
+"177","id0082","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,7,5631,177213
+"178","id0083","ai_training_for_self",1,1,0,"Practice","orange",0,10,4,15710,155357
+"179","id0083","ai_training_for_self",0,1,0,"AI","DarkOrchid",0,10,3,10154,224575
+"180","id0083","ai_training_for_self",0,2,1,"Human Participant","GoldenRod",0,10,5,8780,237909
+"181","id0084","control",1,1,0,"Practice","orange",0,10,5,3396,61916
+"182","id0084","control",0,1,1,"AI","DarkOrchid",0,10,5,2040,111345
+"183","id0084","control",0,2,0,"Human Participant","GoldenRod",0,10,5,2313,118196
+"184","id0085","control",1,1,0,"Practice","orange",0,10,5,14149,57780
+"185","id0085","control",0,1,1,"Human Participant","GoldenRod",0,10,5,4654,110237
+"186","id0085","control",0,2,0,"AI","DarkOrchid",0,10,5,3374,118161
+"187","id0086","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,7557,148411
+"188","id0086","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,5,3673,198155
+"189","id0086","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,2,3484,206198
+"190","id0087","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,13093,62720
+"191","id0087","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,6,5329,116067
+"192","id0087","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,5,4606,125363
+"193","id0088","ai_training_for_others",1,1,0,"Practice","orange",0,10,10,8818,114523
+"194","id0088","ai_training_for_others",0,1,1,"AI","DarkOrchid",0,10,10,8683,197452
+"195","id0088","ai_training_for_others",0,2,0,"Human Participant","GoldenRod",0,10,10,4381,206383
+"196","id0089","control",1,1,0,"Practice","orange",0,10,6,9809,52378
+"197","id0089","control",0,1,0,"Human Participant","DarkOrchid",0,10,6,5444,110180
+"198","id0089","control",0,2,1,"AI","GoldenRod",0,10,7,6162,120869
+"199","id0092","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,9645,66387
+"200","id0092","ai_training_for_others",0,1,0,"AI","GoldenRod",0,10,6,4986,106170
+"201","id0092","ai_training_for_others",0,2,1,"Human Participant","DarkOrchid",0,10,5,3376,114068
+"202","id0093","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,12733,30719
+"203","id0093","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,5,7060,65366
+"204","id0093","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,5,4347,74267
+"205","id0094","control",1,1,0,"Practice","orange",0,10,6,8356,78546
+"206","id0094","control",0,1,0,"AI","DarkOrchid",0,10,5,4046,124618
+"207","id0094","control",0,2,1,"Human Participant","GoldenRod",0,10,6,4839,134018
+"208","id0095","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,13465,81781
+"209","id0095","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,7,6598,131775
+"210","id0095","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,6,6133,142421
+"211","id0096","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,12819,57297
+"212","id0096","ai_training_for_others",0,1,1,"AI","GoldenRod",0,10,7,7717,102632
+"213","id0096","ai_training_for_others",0,2,0,"Human Participant","DarkOrchid",0,10,5,5040,112236
+"214","id0098","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,4762,40024
+"215","id0098","ai_training_for_self",0,1,0,"AI","DarkOrchid",0,10,5,3933,78978
+"216","id0098","ai_training_for_self",0,2,1,"Human Participant","GoldenRod",0,10,5,3043,86537
+"217","id0099","control",1,1,0,"Practice","orange",0,10,6,11100,69329
+"218","id0099","control",0,1,1,"AI","DarkOrchid",0,10,7,7139,94620
+"219","id0099","control",0,2,0,"Human Participant","GoldenRod",0,10,5,2533,101665
+"220","id0100","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,6651,69631
+"221","id0100","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,7,3975,125552
+"222","id0100","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,4,2883,132983
+"223","id0101","ai_training_for_others",1,1,0,"Practice","orange",0,10,8,29942,121384
+"224","id0101","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,8494,236883
+"225","id0101","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,4,4877,246319
+"226","id0101","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,5,5170,47464
+"227","id0101","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,5,4422,56431
+"228","id0101","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,3032,27358
+"229","id0103","control",1,1,0,"Practice","orange",0,10,7,7815,44600
+"230","id0103","control",0,1,0,"AI","GoldenRod",0,10,7,6766,102985
+"231","id0103","control",0,2,1,"Human Participant","DarkOrchid",0,10,6,4670,112197
+"232","id0104","control",1,1,0,"Practice","orange",0,10,5,7198,33898
+"233","id0104","control",0,1,1,"AI","DarkOrchid",0,10,5,3644,66704
+"234","id0104","control",0,2,0,"Human Participant","GoldenRod",0,10,5,3391,74627
+"235","id0105","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,8448,79920
+"236","id0105","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,6,7656,154385
+"237","id0105","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,9,5742,164681
+"238","id0106","ai_training_for_self",1,1,0,"Practice","orange",0,10,7,14088,167855
+"239","id0106","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,8,7290,195568
+"240","id0106","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,8,9702,209850
+"241","id0107","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,7032,51620
+"242","id0107","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,6,4391,104242
+"243","id0107","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,5,5999,114753
+"244","id0108","control",1,1,0,"Practice","orange",0,10,5,8681,53636
+"245","id0108","control",0,1,0,"AI","GoldenRod",0,10,9,5421,105415
+"246","id0108","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,3176,113106
+"247","id0110","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,17012,198040
+"248","id0110","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,5,8562,311806
+"249","id0110","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,5,8685,325023
+"250","id0111","control",1,1,0,"Practice","orange",0,10,6,11226,63418
+"251","id0111","control",0,1,1,"AI","DarkOrchid",0,10,7,6434,117118
+"252","id0111","control",0,2,0,"Human Participant","GoldenRod",0,10,5,3823,125467
+"253","id0112","ai_training_for_others",1,1,0,"Practice","orange",0,10,8,17556,64254
+"254","id0112","ai_training_for_others",0,1,1,"AI","GoldenRod",0,10,7,15551,109390
+"255","id0112","ai_training_for_others",0,2,0,"Human Participant","DarkOrchid",0,10,6,8967,122862
+"256","id0113","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8521,181734
+"257","id0113","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,5,5748,337749
+"258","id0113","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,5,4180,346461
+"259","id0114","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,16075,300081
+"260","id0114","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,6,6394,443390
+"261","id0114","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,5,3897,451846
+"262","id0116","control",1,1,0,"Practice","orange",0,10,5,5968,61224
+"263","id0116","control",0,1,1,"AI","DarkOrchid",0,10,7,7909,108582
+"264","id0116","control",0,2,0,"Human Participant","GoldenRod",0,10,5,3679,116773
+"265","id0119","control",1,1,0,"Practice","orange",0,10,5,7067,104263
+"266","id0119","control",0,1,0,"Human Participant","GoldenRod",0,10,5,4016,179733
+"267","id0119","control",0,2,1,"AI","DarkOrchid",0,10,4,4015,188257
+"268","id0120","control",1,1,0,"Practice","orange",0,10,10,11439,69518
+"269","id0120","control",0,1,1,"Human Participant","GoldenRod",0,10,5,8058,123038
+"270","id0120","control",0,2,0,"AI","DarkOrchid",0,10,5,6791,134373
+"271","id0121","control",1,1,0,"Practice","orange",0,10,5,3659,300795
+"272","id0121","control",0,1,1,"Human Participant","GoldenRod",0,10,5,3024,326628
+"273","id0121","control",0,2,0,"AI","DarkOrchid",0,10,5,3423,334561
+"274","id0122","control",1,1,0,"Practice","orange",0,10,5,9665,69267
+"275","id0122","control",0,1,0,"AI","GoldenRod",0,10,6,12283,141290
+"276","id0122","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,4007,149804
+"277","id0123","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6870,86766
+"278","id0123","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,5,4845,165786
+"279","id0123","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,6,8762,179086
+"280","id0124","control",1,1,0,"Practice","orange",0,10,7,16642,77605
+"281","id0124","control",0,1,1,"Human Participant","GoldenRod",0,10,6,13815,140604
+"282","id0124","control",0,2,0,"AI","DarkOrchid",0,10,7,4328,149462
+"283","id0125","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,6396,54462
+"284","id0125","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,4,6561,106781
+"285","id0125","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,5,3350,114645
+"286","id0126","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,6599,296832
+"287","id0126","ai_training_for_others",0,1,1,"AI","DarkOrchid",0,10,5,3663,345634
+"288","id0126","ai_training_for_others",0,2,0,"Human Participant","GoldenRod",0,10,5,4192,354371
+"289","id0127","control",1,1,0,"Practice","orange",0,10,5,6818,61206
+"290","id0127","control",0,1,0,"AI","GoldenRod",0,10,5,3194,113027
+"291","id0127","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,4149,121720
+"292","id0128","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,51027,85582
+"293","id0128","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,6,5836,131909
+"294","id0128","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,6,7737,144175
+"295","id0129","ai_training_for_self",1,1,0,"Practice","orange",0,10,10,7381,43767
+"296","id0129","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,5,3667,69703
+"297","id0129","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,4,2527,76743
+"298","id0131","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6084,55452
+"299","id0131","ai_training_for_self",0,1,0,"AI","DarkOrchid",0,10,6,4510,117482
+"300","id0131","ai_training_for_self",0,2,1,"Human Participant","GoldenRod",0,10,5,2733,124753
+"301","id0132","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,6745,92579
+"302","id0132","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,6,7382,349551
+"303","id0132","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,6,15234,370791
+"304","id0133","control",1,1,0,"Practice","orange",0,10,6,7566,74107
+"305","id0133","control",0,1,1,"Human Participant","GoldenRod",0,10,6,8636,150432
+"306","id0133","control",0,2,0,"AI","DarkOrchid",0,10,7,3556,158496
+"307","id0134","control",1,1,0,"Practice","orange",0,10,5,13160,224529
+"308","id0134","control",0,1,0,"AI","GoldenRod",0,10,10,9240,575267
+"309","id0134","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,6028,585844
+"310","id0135","control",1,1,0,"Practice","orange",0,10,5,6691,555653
+"311","id0135","control",0,1,1,"AI","GoldenRod",0,10,9,5083,609043
+"312","id0135","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,2358,615933
+"313","id0136","control",1,1,0,"Practice","orange",0,10,5,10718,59078
+"314","id0136","control",0,1,0,"Human Participant","GoldenRod",0,10,5,5987,106398
+"315","id0136","control",0,2,1,"AI","DarkOrchid",0,10,5,5415,116358
+"316","id0137","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,5521,56373
+"317","id0137","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,5,5842,83321
+"318","id0137","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,5,4170,92014
+"319","id0138","control",1,1,0,"Practice","orange",0,10,5,9121,149226
+"320","id0138","control",0,1,1,"Human Participant","GoldenRod",0,10,5,4489,218208
+"321","id0138","control",0,2,0,"AI","DarkOrchid",0,10,6,5638,228359
+"322","id0139","control",1,1,0,"Practice","orange",0,10,10,7797,21722
+"323","id0139","control",0,1,1,"Human Participant","GoldenRod",0,10,5,2764,54167
+"324","id0139","control",0,2,0,"AI","DarkOrchid",0,10,6,2242,60946
+"325","id0140","control",1,1,0,"Practice","orange",0,10,5,7842,67082
+"326","id0140","control",0,1,1,"Human Participant","GoldenRod",0,10,5,4680,117364
+"327","id0140","control",0,2,0,"AI","DarkOrchid",0,10,10,8208,130085
+"328","id0141","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,9012,72125
+"329","id0141","ai_training_for_self",0,1,0,"AI","DarkOrchid",0,10,6,5729,134847
+"330","id0141","ai_training_for_self",0,2,1,"Human Participant","GoldenRod",0,10,5,4065,143448
+"331","id0142","ai_training_for_self",1,1,0,"Practice","orange",0,10,4,18661,103159
+"332","id0142","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,4,12231,196231
+"333","id0142","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,5,5577,206343
+"334","id0143","control",1,1,0,"Practice","orange",0,10,6,17591,96599
+"335","id0143","control",0,1,1,"AI","GoldenRod",0,10,5,5448,178812
+"336","id0143","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,6963,190334
+"337","id0144","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,9544,183845
+"338","id0144","ai_training_for_self",0,1,0,"AI","GoldenRod",0,10,6,6777,276706
+"339","id0144","ai_training_for_self",0,2,1,"Human Participant","DarkOrchid",0,10,5,6266,287508
+"340","id0145","control",1,1,0,"Practice","orange",0,10,5,8872,168857
+"341","id0145","control",0,1,0,"AI","GoldenRod",0,10,5,7893,282697
+"342","id0145","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,4720,291969
+"343","id0146","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,18861,69362
+"344","id0146","ai_training_for_self",0,1,0,"AI","GoldenRod",0,10,9,9348,116590
+"345","id0146","ai_training_for_self",0,2,1,"Human Participant","DarkOrchid",0,10,6,7130,128444
+"346","id0147","control",1,1,0,"Practice","orange",0,10,5,5972,30755
+"347","id0147","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,8082,54930
+"348","id0147","control",0,2,1,"AI","GoldenRod",0,10,5,2656,62827
+"349","id0148","control",1,1,0,"Practice","orange",0,10,8,7388,153806
+"350","id0148","control",0,1,0,"Human Participant","GoldenRod",0,10,7,6006,223502
+"351","id0148","control",0,2,1,"AI","DarkOrchid",0,10,7,3288,231342
+"352","id0151","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,6755,43228
+"353","id0151","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,5,4341,96096
+"354","id0151","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,5,3553,104161
+"355","id0153","control",1,1,0,"Practice","orange",0,10,6,14792,136513
+"356","id0153","control",0,1,1,"AI","DarkOrchid",0,10,5,10735,330314
+"357","id0153","control",0,2,0,"Human Participant","GoldenRod",0,10,5,9838,344672
+"358","id0154","ai_training_for_others",1,1,0,"Practice","orange",0,10,7,8808,73830
+"359","id0154","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,7,3050,177504
+"360","id0154","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,6,4040,186074
+"361","id0155","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,11130,81096
+"362","id0155","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,5,8502,169275
+"363","id0155","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,5,7522,181342
+"364","id0156","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,9732,84543
+"365","id0156","ai_training_for_others",0,1,0,"Human Participant","GoldenRod",0,10,5,5457,162263
+"366","id0156","ai_training_for_others",0,2,1,"AI","DarkOrchid",0,10,6,6102,172879
+"367","id0157","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8043,139343
+"368","id0157","ai_training_for_self",0,1,0,"AI","DarkOrchid",0,10,5,4328,183890
+"369","id0157","ai_training_for_self",0,2,1,"Human Participant","GoldenRod",0,10,5,3806,192259
+"370","id0159","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,12767,90300
+"371","id0159","ai_training_for_others",0,1,0,"AI","GoldenRod",0,10,5,8938,173512
+"372","id0159","ai_training_for_others",0,2,1,"Human Participant","DarkOrchid",0,10,4,9064,187199
+"373","id0160","control",1,1,0,"Practice","orange",0,10,7,7042,544140
+"374","id0160","control",0,1,1,"AI","GoldenRod",0,10,8,24553,599688
+"375","id0160","control",0,2,0,"Human Participant","DarkOrchid",0,10,6,4900,609157
+"376","id0161","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6142,141405
+"377","id0161","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,5,7644,246523
+"378","id0161","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,7,9772,260847
+"379","id0162","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,4723,17840
+"380","id0162","ai_training_for_self",0,1,0,"AI","DarkOrchid",0,10,5,2611,37112
+"381","id0162","ai_training_for_self",0,2,1,"Human Participant","GoldenRod",0,10,5,3110,44739
+"382","id0163","control",1,1,0,"Practice","orange",0,10,5,7360,59325
+"383","id0163","control",0,1,0,"Human Participant","GoldenRod",0,10,5,3880,104236
+"384","id0163","control",0,2,1,"AI","DarkOrchid",0,10,6,8305,117093
+"385","id0166","control",1,1,0,"Practice","orange",0,10,5,4381,428906
+"386","id0166","control",0,1,1,"Human Participant","DarkOrchid",0,10,5,2862,486748
+"387","id0166","control",0,2,0,"AI","GoldenRod",0,10,5,1620,492902
+"388","id0167","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,11318,57269
+"389","id0167","ai_training_for_others",0,1,1,"AI","GoldenRod",0,10,7,9073,109729
+"390","id0167","ai_training_for_others",0,2,0,"Human Participant","DarkOrchid",0,10,5,3695,117951
+"391","id0168","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,9046,172295
+"392","id0168","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,6013,284134
+"393","id0168","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,5,4153,292845
+"394","id0169","ai_training_for_self",1,1,0,"Practice","orange",0,10,7,7249,60724
+"395","id0169","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,6,3912,117548
+"396","id0169","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,5,5075,127136
+"397","id0170","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8241,88808
+"398","id0170","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,5,3777,184828
+"399","id0170","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,5,5116,194495
+"400","id0171","ai_training_for_others",1,1,0,"Practice","orange",0,10,4,7997,81580
+"401","id0171","ai_training_for_others",0,1,1,"AI","DarkOrchid",0,10,4,11340,156802
+"402","id0171","ai_training_for_others",0,2,0,"Human Participant","GoldenRod",0,10,5,5325,166664
+"403","id0172","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,8825,58667
+"404","id0172","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,6,8981,108334
+"405","id0172","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,5,3443,116335
+"406","id0173","control",1,1,0,"Practice","orange",0,10,5,6418,43166
+"407","id0173","control",0,1,1,"AI","GoldenRod",0,10,6,14022,95678
+"408","id0173","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,3140,103358
+"409","id0174","control",1,1,0,"Practice","orange",0,10,5,12215,100762
+"410","id0174","control",0,1,1,"Human Participant","GoldenRod",0,10,5,6160,164221
+"411","id0174","control",0,2,0,"AI","DarkOrchid",0,10,5,7813,176590
+"412","id0175","ai_training_for_self",1,1,0,"Practice","orange",0,10,8,13048,111425
+"413","id0175","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,6,7514,181231
+"414","id0175","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,8,9116,194858
+"415","id0176","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,7040,45884
+"416","id0176","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,7,5160,92427
+"417","id0176","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,6,5845,102811
+"418","id0177","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,9214,74389
+"419","id0177","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,5,6061,131613
+"420","id0177","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,7,4202,140328
+"421","id0178","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,9685,107099
+"422","id0178","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,5,5235,201584
+"423","id0178","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,5,3491,209631
+"424","id0180","control",1,1,0,"Practice","orange",0,10,6,8923,74230
+"425","id0180","control",0,1,1,"Human Participant","DarkOrchid",0,10,6,4653,134930
+"426","id0180","control",0,2,0,"AI","GoldenRod",0,10,7,6817,146264
+"427","id0181","control",1,1,0,"Practice","orange",0,10,5,7097,39662
+"428","id0181","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,5273,64697
+"429","id0181","control",0,2,1,"AI","GoldenRod",0,10,5,3929,73162
+"430","id0182","ai_training_for_self",1,1,0,"Practice","orange",0,10,9,4515,44922
+"431","id0182","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,6,3249,84284
+"432","id0182","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,8,3710,92509
+"433","id0184","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,5636,56466
+"434","id0184","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,5,5574,122583
+"435","id0184","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,4,5140,132235
+"436","id0185","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,13479,46714
+"437","id0185","ai_training_for_others",0,1,0,"Human Participant","GoldenRod",0,10,5,4691,133351
+"438","id0185","ai_training_for_others",0,2,1,"AI","DarkOrchid",0,10,3,4268,142163
+"439","id0186","control",1,1,0,"Practice","orange",0,10,5,4103,57849
+"440","id0186","control",0,1,1,"Human Participant","GoldenRod",0,10,5,1869,86007
+"441","id0186","control",0,2,0,"AI","DarkOrchid",0,10,5,1794,92333
+"442","id0187","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,8698,77371
+"443","id0187","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,5,7019,175209
+"444","id0187","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,6,12971,192731
+"445","id0188","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,6,12203,113312
+"446","id0188","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,12365,38478
+"447","id0188","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,6,8320,96593
+"448","id0189","control",1,1,0,"Practice","orange",0,10,5,5611,84310
+"449","id0189","control",0,1,1,"Human Participant","GoldenRod",0,10,6,10634,152645
+"450","id0189","control",0,2,0,"AI","DarkOrchid",0,10,6,4629,161821
+"451","id0190","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6204,66975
+"452","id0190","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,6,5814,136575
+"453","id0190","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,5,4409,145497
+"454","id0191","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,12522,144948
+"455","id0191","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,7,9289,259430
+"456","id0191","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,4,5095,269062
+"457","id0193","control",1,1,0,"Practice","orange",0,10,5,8778,164491
+"458","id0193","control",0,1,1,"AI","GoldenRod",0,10,6,6821,265564
+"459","id0193","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,3184,273308
+"460","id0194","control",1,1,0,"Practice","orange",0,10,5,10191,149018
+"461","id0194","control",0,1,1,"AI","GoldenRod",0,10,6,11436,272921
+"462","id0194","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,11532,288995
+"463","id0195","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,13598,189773
+"464","id0195","ai_training_for_others",0,1,1,"AI","DarkOrchid",0,10,5,5278,311905
+"465","id0195","ai_training_for_others",0,2,0,"Human Participant","GoldenRod",0,10,5,4414,320860
+"466","id0196","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8550,84704
+"467","id0196","ai_training_for_self",0,1,0,"AI","GoldenRod",0,10,6,8396,156202
+"468","id0196","ai_training_for_self",0,2,1,"Human Participant","DarkOrchid",0,10,5,3334,164063
+"469","id0197","control",1,1,0,"Practice","orange",0,10,5,3788,67722
+"470","id0197","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,3156,95671
+"471","id0197","control",0,2,1,"AI","GoldenRod",0,10,5,4216,104481
+"472","id0198","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6354,85999
+"473","id0198","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,5,6651,192934
+"474","id0198","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,5,3993,201441
+"475","id0199","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,8031,273395
+"476","id0199","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,6,5960,341012
+"477","id0199","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,6,3948,349514
+"478","id0200","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6071,112702
+"479","id0200","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,5,2617,129389
+"480","id0200","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,5,2323,136264
+"481","id0201","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,9249,104041
+"482","id0201","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,6,5508,190978
+"483","id0201","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,6,5345,200856
+"484","id0202","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,18317,123693
+"485","id0202","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,6,12055,229099
+"486","id0202","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,6,7264,240913
+"487","id0206","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6773,36370
+"488","id0206","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,5,3667,80074
+"489","id0206","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,9,6112,90730
+"490","id0207","ai_training_for_others",1,1,0,"Practice","orange",0,10,7,7757,64872
+"491","id0207","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,7,6701,109858
+"492","id0207","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,7,3487,117859
+"493","id0208","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,5796,87661
+"494","id0208","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,5,4561,151054
+"495","id0208","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,10,10046,165604
+"496","id0210","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,5807,61298
+"497","id0210","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,6,7653,120842
+"498","id0210","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,5,4294,129697
+"499","id0211","control",1,1,0,"Practice","orange",0,10,5,4016,325138
+"500","id0211","control",0,1,1,"AI","GoldenRod",0,10,5,3165,384849
+"501","id0211","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,3082,392478
+"502","id0212","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,4159,178167
+"503","id0212","ai_training_for_others",0,1,0,"AI","GoldenRod",0,10,6,3699,252441
+"504","id0212","ai_training_for_others",0,2,1,"Human Participant","DarkOrchid",0,10,6,4232,261223
+"505","id0214","control",1,1,0,"Practice","orange",0,10,5,7282,67386
+"506","id0214","control",0,1,1,"Human Participant","DarkOrchid",0,10,5,6953,125905
+"507","id0214","control",0,2,0,"AI","GoldenRod",0,10,5,6316,136769
+"508","id0216","ai_training_for_self",1,1,0,"Practice","orange",0,10,8,13994,149233
+"509","id0216","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,5,14707,282089
+"510","id0216","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,4,4971,291624
+"511","id0217","control",1,1,0,"Practice","orange",0,10,5,5264,60515
+"512","id0217","control",0,1,1,"AI","GoldenRod",0,10,9,7130,112880
+"513","id0217","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,3566,120962
+"514","id0218","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,12279,101040
+"515","id0218","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,5,7642,208646
+"516","id0218","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,6,23658,236839
+"517","id0219","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,5545,215925
+"518","id0219","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,5,4776,331602
+"519","id0219","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,6,3723,339876
+"520","id0220","control",1,1,0,"Practice","orange",0,10,5,9757,309637
+"521","id0220","control",0,1,0,"Human Participant","GoldenRod",0,10,4,7980,370044
+"522","id0220","control",0,2,1,"AI","DarkOrchid",0,10,5,2508,377084
+"523","id0221","control",1,1,0,"Practice","orange",0,10,5,6488,70071
+"524","id0221","control",0,1,1,"Human Participant","GoldenRod",0,10,6,4622,152910
+"525","id0221","control",0,2,0,"AI","DarkOrchid",0,10,10,5169,162594
+"526","id0222","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,13954,102699
+"527","id0222","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,5,6279,215436
+"528","id0222","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,9,12349,232318
+"529","id0223","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,8453,99733
+"530","id0223","ai_training_for_others",0,1,0,"AI","GoldenRod",0,10,5,8593,204917
+"531","id0223","ai_training_for_others",0,2,1,"Human Participant","DarkOrchid",0,10,5,7779,217248
+"532","id0224","ai_training_for_self",1,1,0,"Practice","orange",0,10,7,7625,88659
+"533","id0224","ai_training_for_self",0,1,0,"Human Participant","DarkOrchid",0,10,6,7989,133242
+"534","id0224","ai_training_for_self",0,2,1,"AI","GoldenRod",0,10,9,3989,141742
+"535","id0225","control",1,1,0,"Practice","orange",0,10,6,9005,70900
+"536","id0225","control",0,1,1,"Human Participant","GoldenRod",0,10,6,6126,135322
+"537","id0225","control",0,2,0,"AI","DarkOrchid",0,10,6,4208,144054
+"538","id0227","control",1,1,0,"Practice","orange",0,10,10,6868,39018
+"539","id0227","control",0,1,1,"AI","GoldenRod",0,10,10,2955,79864
+"540","id0227","control",0,2,0,"Human Participant","DarkOrchid",0,10,10,2670,87043
+"541","id0228","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,8271,223620
+"542","id0228","ai_training_for_others",0,1,0,"Human Participant","GoldenRod",0,10,5,3743,303034
+"543","id0228","ai_training_for_others",0,2,1,"AI","DarkOrchid",0,10,5,2596,310244
+"544","id0229","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,4885,44723
+"545","id0229","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,4,5380,83180
+"546","id0229","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,5,2831,90533
+"547","id0230","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,15661,150534
+"548","id0230","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,5,9982,433485
+"549","id0230","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,5,6061,444110
+"550","id0231","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,5316,33354
+"551","id0231","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,5,5274,68430
+"552","id0231","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,5,6137,79106
+"553","id0232","ai_training_for_self",1,1,0,"Practice","orange",0,10,7,11769,70310
+"554","id0232","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,8,5647,126867
+"555","id0232","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,9,5191,136641
+"556","id0233","control",1,1,0,"Practice","orange",0,10,9,12245,64351
+"557","id0233","control",0,1,1,"AI","GoldenRod",0,10,5,5096,93334
+"558","id0233","control",0,2,0,"Human Participant","DarkOrchid",0,10,6,6784,104681
+"559","id0234","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,17401,138855
+"560","id0234","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,5,7363,242645
+"561","id0234","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,6,15454,262680
+"562","id0235","control",1,1,0,"Practice","orange",0,10,8,4183,28312
+"563","id0235","control",0,1,1,"Human Participant","GoldenRod",0,10,7,3391,52513
+"564","id0235","control",0,2,0,"AI","DarkOrchid",0,10,9,2955,60002
+"565","id0236","control",1,1,0,"Practice","orange",0,10,5,7962,227790
+"566","id0236","control",0,1,1,"Human Participant","GoldenRod",0,10,5,10779,406971
+"567","id0236","control",0,2,0,"AI","DarkOrchid",0,10,10,17502,428999
+"568","id0237","control",1,1,0,"Practice","orange",0,10,5,6539,72001
+"569","id0237","control",0,1,1,"Human Participant","GoldenRod",0,10,5,5240,110990
+"570","id0237","control",0,2,0,"AI","DarkOrchid",0,10,5,7682,123214
+"571","id0238","control",1,1,0,"Practice","orange",0,10,6,18312,144067
+"572","id0238","control",0,1,0,"AI","GoldenRod",0,10,5,5453,224266
+"573","id0238","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,4911,233726
+"574","id0240","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,6419,53302
+"575","id0240","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,6,2665,98472
+"576","id0240","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,6,1953,104939
+"577","id0241","control",1,1,0,"Practice","orange",0,10,5,8070,113683
+"578","id0241","control",0,1,1,"Human Participant","GoldenRod",0,10,5,6207,180836
+"579","id0241","control",0,2,0,"AI","DarkOrchid",0,10,7,6851,192238
+"580","id0242","ai_training_for_others",1,1,0,"Practice","orange",0,10,3,8989,59371
+"581","id0242","ai_training_for_others",0,1,0,"Human Participant","GoldenRod",0,10,4,8218,81670
+"582","id0242","ai_training_for_others",0,2,1,"AI","DarkOrchid",0,10,3,18576,104804
+"583","id0243","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,5296,45732
+"584","id0243","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,5,3642,80753
+"585","id0243","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,7,6020,91288
+"586","id0244","control",1,1,0,"Practice","orange",0,10,8,7663,51479
+"587","id0244","control",0,1,0,"AI","GoldenRod",0,10,6,3153,84412
+"588","id0244","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,7598,96516
+"589","id0245","control",1,1,0,"Practice","orange",0,10,5,6964,67743
+"590","id0245","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,4418,127652
+"591","id0245","control",0,2,1,"AI","GoldenRod",0,10,5,3236,135421
+"592","id0246","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,5571,77302
+"593","id0246","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,5,4339,137883
+"594","id0246","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,6,7202,149635
+"595","id0247","control",1,1,0,"Practice","orange",0,10,5,7003,48094
+"596","id0247","control",0,1,1,"Human Participant","GoldenRod",0,10,5,3675,101193
+"597","id0247","control",0,2,0,"AI","DarkOrchid",0,10,9,8965,114673
+"598","id0248","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,5558,93532
+"599","id0248","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,5,3405,169400
+"600","id0248","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,5,4754,178673
+"601","id0249","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,6103,70793
+"602","id0249","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,5,3697,130084
+"603","id0249","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,5,3986,138584
+"604","id0250","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,15691,1070619
+"605","id0250","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,4848,1093387
+"606","id0250","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,4,4899,1102820
+"607","id0251","control",1,1,0,"Practice","orange",0,10,5,14658,119090
+"608","id0251","control",0,1,0,"AI","DarkOrchid",0,10,6,10483,211024
+"609","id0251","control",0,2,1,"Human Participant","GoldenRod",0,10,5,4448,219983
+"610","id0252","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8623,33413
+"611","id0252","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,4,7263,75532
+"612","id0252","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,2,4465,84513
+"613","id0255","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8820,72790
+"614","id0255","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,5,13448,140297
+"615","id0255","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,4,13665,158475
+"616","id0256","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,15414,88299
+"617","id0256","ai_training_for_others",0,1,1,"AI","GoldenRod",0,10,5,9918,152767
+"618","id0256","ai_training_for_others",0,2,0,"Human Participant","DarkOrchid",0,10,5,9084,166414
+"619","id0257","control",1,1,0,"Practice","orange",0,10,5,5634,58211
+"620","id0257","control",0,1,1,"Human Participant","GoldenRod",0,10,5,5390,106509
+"621","id0257","control",0,2,0,"AI","DarkOrchid",0,10,5,6296,117353
+"622","id0258","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,21899,65715
+"623","id0258","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,5,6781,139631
+"624","id0258","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,6,7464,151612
+"625","id0259","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,7054,63574
+"626","id0259","ai_training_for_self",0,1,0,"AI","DarkOrchid",0,10,7,4245,115307
+"627","id0259","ai_training_for_self",0,2,1,"Human Participant","GoldenRod",0,10,6,3284,123137
+"628","id0260","ai_training_for_others",1,1,0,"Practice","orange",0,10,7,5942,62226
+"629","id0260","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,7,4275,125418
+"630","id0260","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,7,2994,132954
+"631","id0261","control",1,1,0,"Practice","orange",0,10,7,17811,81906
+"632","id0261","control",0,1,1,"Human Participant","GoldenRod",0,10,6,8456,153354
+"633","id0261","control",0,2,0,"AI","DarkOrchid",0,10,9,8732,166642
+"634","id0262","control",1,1,0,"Practice","orange",0,10,10,5915,103479
+"635","id0262","control",0,1,0,"AI","GoldenRod",0,10,6,6144,151571
+"636","id0262","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,4312,160402
+"637","id0263","control",1,1,0,"Practice","orange",0,10,5,5981,30471
+"638","id0263","control",0,1,0,"AI","DarkOrchid",0,10,7,3969,55267
+"639","id0263","control",0,2,1,"Human Participant","GoldenRod",0,10,5,1902,61723
+"640","id0264","control",1,1,0,"Practice","orange",0,10,5,8076,93695
+"641","id0264","control",0,1,1,"AI","DarkOrchid",0,10,5,10544,168191
+"642","id0264","control",0,2,0,"Human Participant","GoldenRod",0,10,5,6612,179359
+"643","id0265","control",1,1,0,"Practice","orange",0,10,5,20268,46021
+"644","id0265","control",0,1,0,"AI","GoldenRod",0,10,5,6264,83760
+"645","id0265","control",0,2,1,"Human Participant","DarkOrchid",0,10,6,8014,96286
+"646","id0267","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,9094,47147
+"647","id0267","ai_training_for_others",0,1,0,"AI","GoldenRod",0,10,1,13386,137099
+"648","id0267","ai_training_for_others",0,2,1,"Human Participant","DarkOrchid",0,10,5,3697,145313
+"649","id0268","control",1,1,0,"Practice","orange",0,10,10,14231,77744
+"650","id0268","control",0,1,0,"AI","DarkOrchid",0,10,6,7719,151216
+"651","id0268","control",0,2,1,"Human Participant","GoldenRod",0,10,5,4041,159768
+"652","id0269","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,8029,164316
+"653","id0269","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,5,20323,254737
+"654","id0269","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,5,6119,265397
+"655","id0270","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,8380,75892
+"656","id0270","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,6,13112,138730
+"657","id0270","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,6,9804,153084
+"658","id0271","control",1,1,0,"Practice","orange",0,10,8,6844,59886
+"659","id0271","control",0,1,1,"Human Participant","GoldenRod",0,10,5,5760,112260
+"660","id0271","control",0,2,0,"AI","DarkOrchid",0,10,5,4683,121468
+"661","id0272","control",1,1,0,"Practice","orange",0,10,5,6925,68697
+"662","id0272","control",0,1,0,"AI","DarkOrchid",0,10,5,3088,100062
+"663","id0272","control",0,2,1,"Human Participant","GoldenRod",0,10,5,2692,107262
+"664","id0273","control",1,1,0,"Practice","orange",0,10,5,4809,49690
+"665","id0273","control",0,1,1,"Human Participant","DarkOrchid",0,10,5,3685,83562
+"666","id0273","control",0,2,0,"AI","GoldenRod",0,10,5,3421,91538
+"667","id0274","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,9677,76081
+"668","id0274","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,10,11719,134678
+"669","id0274","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,5,4357,143554
+"670","id0275","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,12745,124026
+"671","id0275","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,5,7719,250899
+"672","id0275","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,8,9606,265021
+"673","id0277","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,5665,44459
+"674","id0277","ai_training_for_self",0,1,1,"Human Participant","GoldenRod",0,10,5,2244,73039
+"675","id0277","ai_training_for_self",0,2,0,"AI","DarkOrchid",0,10,5,2605,80186
+"676","id0278","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,10967,78838
+"677","id0278","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,7,6618,119285
+"678","id0278","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,7,6653,130507
+"679","id0279","ai_training_for_others",1,1,0,"Practice","orange",0,10,1,12901,87054
+"680","id0279","ai_training_for_others",0,1,1,"Human Participant","GoldenRod",0,10,5,14569,168328
+"681","id0279","ai_training_for_others",0,2,0,"AI","DarkOrchid",0,10,6,13111,186000
+"682","id0280","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,10526,139520
+"683","id0280","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,9599,289093
+"684","id0280","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,6,14776,308418
+"685","id0281","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,3307,37984
+"686","id0281","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,6,4969,230568
+"687","id0281","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,5,2627,237731
+"688","id0282","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,11114,77216
+"689","id0282","ai_training_for_others",0,1,1,"AI","GoldenRod",0,10,5,5342,160225
+"690","id0282","ai_training_for_others",0,2,0,"Human Participant","DarkOrchid",0,10,5,5224,170019
+"691","id0284","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,5531,119062
+"692","id0284","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,4977,190717
+"693","id0284","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,6,5846,201097
+"694","id0285","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,3678,100845
+"695","id0285","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,6,5911,132155
+"696","id0285","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,7,3220,139911
+"697","id0286","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,14173,44161
+"698","id0286","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,6837,105226
+"699","id0286","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,6,5342,115079
+"700","id0288","control",1,1,0,"Practice","orange",0,10,5,6806,125811
+"701","id0288","control",0,1,0,"AI","DarkOrchid",0,10,5,4747,199455
+"702","id0288","control",0,2,1,"Human Participant","GoldenRod",0,10,5,6883,210878
+"703","id0289","control",1,1,0,"Practice","orange",0,10,5,7937,76290
+"704","id0289","control",0,1,0,"AI","GoldenRod",0,10,6,6859,137999
+"705","id0289","control",0,2,1,"Human Participant","DarkOrchid",0,10,5,4501,147063
+"706","id0290","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,55771,123986
+"707","id0290","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,5,4192,158460
+"708","id0290","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,5,3293,166260
+"709","id0291","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,8247,74331
+"710","id0291","ai_training_for_self",0,1,0,"AI","GoldenRod",0,10,5,8022,131648
+"711","id0291","ai_training_for_self",0,2,1,"Human Participant","DarkOrchid",0,10,6,5218,141377
+"712","id0293","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,7682,40021
+"713","id0293","ai_training_for_others",0,1,1,"AI","GoldenRod",0,10,6,6078,105720
+"714","id0293","ai_training_for_others",0,2,0,"Human Participant","DarkOrchid",0,10,6,4201,114454
+"715","id0294","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,8252,99854
+"716","id0294","ai_training_for_others",0,1,0,"Human Participant","DarkOrchid",0,10,5,8598,181469
+"717","id0294","ai_training_for_others",0,2,1,"AI","GoldenRod",0,10,6,18054,204036
+"718","id0295","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,9369,76517
+"719","id0295","ai_training_for_others",0,1,0,"AI","GoldenRod",0,10,7,9274,147638
+"720","id0295","ai_training_for_others",0,2,1,"Human Participant","DarkOrchid",0,10,5,6647,158830
+"721","id0296","control",1,1,0,"Practice","orange",0,10,4,10939,422863
+"722","id0296","control",0,1,1,"Human Participant","DarkOrchid",0,10,5,7226,560184
+"723","id0296","control",0,2,0,"AI","GoldenRod",0,10,2,5017,569754
+"724","id0298","ai_training_for_self",1,1,0,"Practice","orange",0,10,7,11022,68030
+"725","id0298","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,7,4465,122926
+"726","id0298","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,7,3826,131308
+"727","id0299","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,6875,591835
+"728","id0299","ai_training_for_self",0,1,1,"AI","GoldenRod",0,10,6,3273,619468
+"729","id0299","ai_training_for_self",0,2,0,"Human Participant","DarkOrchid",0,10,5,1988,625968
+"730","id0300","control",1,1,0,"Practice","orange",0,10,8,10341,37043
+"731","id0300","control",0,1,0,"Human Participant","DarkOrchid",0,10,8,5522,65325
+"732","id0300","control",0,2,1,"AI","GoldenRod",0,10,10,2662,72516
+"733","id0301","control",1,1,0,"Practice","orange",0,10,5,14784,51961
+"734","id0301","control",0,1,1,"Human Participant","GoldenRod",0,10,5,14282,92008
+"735","id0301","control",0,2,0,"AI","DarkOrchid",0,10,5,7801,104368
+"736","id0304","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,12695,78773
+"737","id0304","ai_training_for_others",0,1,0,"AI","DarkOrchid",0,10,6,6623,151981
+"738","id0304","ai_training_for_others",0,2,1,"Human Participant","GoldenRod",0,10,6,4004,160499
+"739","id0305","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,10219,258726
+"740","id0305","ai_training_for_self",0,1,1,"Human Participant","DarkOrchid",0,10,6,9022,346783
+"741","id0305","ai_training_for_self",0,2,0,"AI","GoldenRod",0,10,7,8850,360157
+"742","id0306","control",1,1,0,"Practice","orange",0,10,5,6134,163358
+"743","id0306","control",0,1,0,"Human Participant","GoldenRod",0,10,5,5357,215330
+"744","id0306","control",0,2,1,"AI","DarkOrchid",0,10,5,6506,226369
+"745","id0307","control",1,1,0,"Practice","orange",0,10,5,7885,117564
+"746","id0307","control",0,1,0,"Human Participant","DarkOrchid",0,10,6,6984,209658
+"747","id0307","control",0,2,1,"AI","GoldenRod",0,10,1,7901,222082
+"748","id0308","control",1,1,0,"Practice","orange",0,10,10,10921,92338
+"749","id0308","control",0,1,1,"Human Participant","DarkOrchid",0,10,6,8554,180865
+"750","id0308","control",0,2,0,"AI","GoldenRod",0,10,7,2824,188224
+"751","id0309","ai_training_for_self",1,1,0,"Practice","orange",0,10,9,33894,174003
+"752","id0309","ai_training_for_self",0,1,0,"AI","GoldenRod",0,10,8,11966,249263
+"753","id0309","ai_training_for_self",0,2,1,"Human Participant","DarkOrchid",0,10,7,6290,260101
+"754","id0310","control",1,1,0,"Practice","orange",0,10,9,22474,134819
+"755","id0310","control",0,1,1,"Human Participant","DarkOrchid",0,10,9,9182,235643
+"756","id0310","control",0,2,0,"AI","GoldenRod",0,10,9,7612,247801
+"757","id0311","ai_training_for_self",1,1,0,"Practice","orange",0,10,7,14449,421502
+"758","id0311","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,7,54504,498334
+"759","id0311","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,7,4821,507775
+"760","id0312","control",1,1,0,"Practice","orange",0,10,6,9529,84874
+"761","id0312","control",0,1,0,"Human Participant","DarkOrchid",0,10,6,3586,152452
+"762","id0312","control",0,2,1,"AI","GoldenRod",0,10,6,6131,163114
+"763","id0313","ai_training_for_self",1,1,0,"Practice","orange",0,10,5,14165,105542
+"764","id0313","ai_training_for_self",0,1,1,"AI","DarkOrchid",0,10,5,10631,192097
+"765","id0313","ai_training_for_self",0,2,0,"Human Participant","GoldenRod",0,10,6,13541,210160
+"766","id0314","control",1,1,0,"Practice","orange",0,10,5,4649,50512
+"767","id0314","control",0,1,1,"AI","GoldenRod",0,10,6,13577,93315
+"768","id0314","control",0,2,0,"Human Participant","DarkOrchid",0,10,5,4659,102521
+"769","id0315","control",1,1,0,"Practice","orange",0,10,6,9298,46043
+"770","id0315","control",0,1,0,"AI","DarkOrchid",0,10,8,6599,87744
+"771","id0315","control",0,2,1,"Human Participant","GoldenRod",0,10,5,5372,97626
+"772","id0316","ai_training_for_others",1,1,0,"Practice","orange",0,10,6,7866,65117
+"773","id0316","ai_training_for_others",0,1,0,"Human Participant","GoldenRod",0,10,5,9214,171009
+"774","id0316","ai_training_for_others",0,2,1,"AI","DarkOrchid",0,10,6,4842,180389
+"775","id0317","control",1,1,0,"Practice","orange",0,10,7,11511,84095
+"776","id0317","control",0,1,1,"AI","DarkOrchid",0,10,6,10620,122546
+"777","id0317","control",0,2,0,"Human Participant","GoldenRod",0,10,6,7880,134931
+"778","id0318","control",1,1,0,"Practice","orange",0,10,6,14382,119656
+"779","id0318","control",0,1,1,"AI","DarkOrchid",0,10,5,7095,170186
+"780","id0318","control",0,2,0,"Human Participant","GoldenRod",0,10,6,3671,178419
+"781","id0320","ai_training_for_self",1,1,0,"Practice","orange",0,10,6,11534,153024
+"782","id0320","ai_training_for_self",0,1,0,"Human Participant","GoldenRod",0,10,5,8098,250253
+"783","id0320","ai_training_for_self",0,2,1,"AI","DarkOrchid",0,10,6,4680,259509
+"784","id0321","ai_training_for_others",1,1,0,"Practice","orange",0,10,5,10462,47109
+"785","id0321","ai_training_for_others",0,1,1,"Human Participant","DarkOrchid",0,10,5,3074,78474
+"786","id0321","ai_training_for_others",0,2,0,"AI","GoldenRod",0,10,6,9589,92601
+"787","id0322","control",1,1,0,"Practice","orange",0,10,4,13231,179865
+"788","id0322","control",0,1,0,"Human Participant","DarkOrchid",0,10,5,15729,420028
+"789","id0322","control",0,2,1,"AI","GoldenRod",0,10,7,7166,431738
